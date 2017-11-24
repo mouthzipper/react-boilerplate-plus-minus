@@ -1,0 +1,13 @@
+{
+  "rbpm.components.Footer.copyRightmessage": "Copyright © 2017 rbpm",
+  "rbpm.components.Header.aboutUs": "ABOUT US",
+  "rbpm.components.Header.portfolios": "PORTFOLIOS",
+  "rbpm.components.Header.pricing": "PRICING",
+  "rbpm.components.Header.contactUs": "CONTACT US",
+  "rbpm.components.Header.login": "Log In",
+  "rbpm.components.Header.tryNow": "TRY NOW",
+  "rbpm.containers.HomePage.tryNow": "TRY NOW",
+  "rbpm.containers.LocaleToggle.de": "de",
+  "rbpm.containers.LocaleToggle.en": "en",
+  "rbpm.containers.NotFoundPage.header": "Page not found."
+}
