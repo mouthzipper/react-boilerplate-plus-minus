@@ -24,7 +24,11 @@ module.exports = (options) => ({
         exclude: /node_modules/,
         use: {
           loader: 'babel-loader',
-          options: options.babelQuery,
+          plugins: [['import', {
+            libraryName: 'antd',
+            libraryDirectory: 'es',
+            style: 'css' }],
+          ],
         },
       },
       {
